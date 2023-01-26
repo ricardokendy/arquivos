@@ -1,2 +1,2 @@
-# arquivos
+# arquivos legais
 Aula de git
